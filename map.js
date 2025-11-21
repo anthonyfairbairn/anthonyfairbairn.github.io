@@ -1,7 +1,7 @@
 var mapConfig = {
     imagesUrl: 'map/', // URL to folder with 'zoom levels' (folders with names 0-16)
     imagesExtension: '.png',
-    mapName: 'RL MAP?',
+    mapName: 'Templo',
     startPosition: {x: 333, y: 57, z: 7},
     startZoom: 14,
     minZoom: 4,
