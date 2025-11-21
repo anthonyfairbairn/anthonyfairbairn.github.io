@@ -1,8 +1,8 @@
 var mapConfig = {
     imagesUrl: 'map/', // URL to folder with 'zoom levels' (folders with names 0-16)
-    imagesExtension: '.jpg',
+    imagesExtension: '.png',
     mapName: 'RL MAP?',
-    startPosition: {x: 32000, y: 32000, z: 7},
+    startPosition: {x: 333, y: 57, z: 7},
     startZoom: 14,
     minZoom: 4,
     maxZoom: 18, // maximum zoom with full quality is 16
